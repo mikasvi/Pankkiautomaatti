@@ -1,1 +1,1 @@
-# group_3# Pankkiautomaatti
+Pankkiautomaatti
